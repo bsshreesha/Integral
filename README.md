@@ -22,3 +22,10 @@ Install these libraries using pip if they are not already installed:
 
 ```bash
 pip install sympy ipython
+```
+
+## Star the Repository
+
+If you find this project useful or interesting, please consider starring the repository on GitHub!
+
+[![Star this repository](https://img.shields.io/github/stars/bsshreesha/Integral.svg?style=social)](https://github.com/bsshreesha/Integral/)
